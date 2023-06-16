@@ -66,9 +66,9 @@ export class News extends Component {
         <div className="container">
           <h2 className="text-center my-2">News Monkey-Top HeadLines</h2>
           {this.state.loading && (
-            <div class="d-flex justify-content-center text-center">
-              <div class="spinner-border" role="status">
-                <span class="visually-hidden">Loading...</span>
+            <div className="d-flex justify-content-center text-center">
+              <div className="spinner-border" role="status">
+                <span className="visually-hidden">Loading...</span>
               </div>
             </div>
           )}
