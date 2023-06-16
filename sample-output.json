@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Jessica Wang",
+            "title": "McGrath breaks silence on Sunrise gaffe",
+            "description": "<p>Glenn McGrath has broken his silence after a Sunrise presenter made an awkward on-air joke that the cricket great had died. </p>",
+            "url": "https://www.news.com.au/entertainment/tv/morning-shows/glenn-mcgrath-responds-to-sunrise-presenter-mylee-hogan-joking-that-he-had-died/news-story/a2f480578359c354f13e92ba2a069eaf",
+            "urlToImage": "https://content.api.news/v3/images/bin/bd245492d14d0c21f35aee87958061b6",
+            "publishedAt": "2023-01-06T04:18:00Z",
+            "content": "Glenn McGrath has broken his silence after a Sunrise presenter made an awkward on-air joke that the cricket great had died. \r\nPrior to McGrath’s live-cross onto the breakfast program, news presenter … [+5178 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Lynn Butler",
+            "title": "Dutch defector Van der Merwe won't bring up Proteas' shock T20 World Cup exit during SA20",
+            "description": "Dutch cricketer Roelof van der Merwe says it'll be unsafe to bring up Netherlands' historic T20 World Cup win against South Africa in Adelaide last year.",
+            "url": "https://www.news24.com/sport/cricket/domestic/dutch-defector-van-der-merwe-wont-bring-up-proteas-shock-t20-world-cup-exit-during-sa20-20230105",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8009/4a02af12bfb147b1812fc3a508c36ebe.jpg",
+            "publishedAt": "2023-01-05T18:53:05+00:00",
+            "content": "<ul><li>Netherlands all-rounder Roelof van der Merwe is back in his home country for the inaugural SA20.</li><li>Van der Merwe will play for the Sunrisers Eastern Cape along with several T20 World Cu… [+3154 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
